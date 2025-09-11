@@ -6,4 +6,4 @@ COPY . /app
 
 ENV PYTHONUNBUFFERED 1
 
-CMD ["python", "main.py"]
+CMD ["python", "demo.py"]
